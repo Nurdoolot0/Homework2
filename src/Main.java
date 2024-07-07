@@ -11,7 +11,7 @@ public class Main {
         String canIGoOut = permission(num, num1);
         System.out.println(canIGoOut);
 
-        System.out.println(permission(generateRandomAge(),10));// Задание 5 & 3
+        System.out.println(permission(generateRandomAge(),10));// 5 исправлено
         System.out.println(permission(34,23));
         System.out.println(permission(74,45));
         System.out.println(permission(9,-16));
